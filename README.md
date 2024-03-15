@@ -14,4 +14,5 @@ This project harnesses a diverse array of Python capabilities to catalog the ent
 - Windows 11
 
 
-# Project Walk-Through: <img src="Demo.gif">
+# Project Walk-Through: 
+![Hello](Demo.gif)
