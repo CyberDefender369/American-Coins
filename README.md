@@ -15,4 +15,6 @@ This project harnesses a diverse array of Python capabilities to catalog the ent
 
 
 # Project Walk-Through: 
-![Hello](Demo.gif)
+The gif below demonstrates that the program is fully operational, and responds with the specifications of all American coins.
+
+![Demo ](https://github.com/CyberDefender369/Make-All-Coins/assets/96165986/da3a7b53-5c1f-431f-b00c-90844a90f994)
